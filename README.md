@@ -1,7 +1,7 @@
-# Project Name: Land Surveyor
+# Project Name: SurveyingLand
 
 ## Description
-The Land Surveyor is a software application developed using Qt C++ and QtWidget. It allows users to survey land by collecting accurate Latitude and Longitude coordinates from GPS. This README provides an overview of the project, installation instructions, and future plans for enhancements.
+The SurveyingLand is a software application developed using Qt C++ and QtWidget. It allows users to survey land by collecting accurate Latitude and Longitude coordinates from GPS. This README provides an overview of the project, installation instructions, and future plans for enhancements.
 
 ## Features
 - Collects precise Latitude and Longitude coordinates from GPS.
