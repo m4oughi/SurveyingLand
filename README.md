@@ -9,7 +9,7 @@ The Land Surveyor is a software application developed using Qt C++ and QtWidget.
 
 ## Installation
 1. Clone the repository to your local machine using the following command:
-git clone https://github.com/your-username/land-surveyor.git
+git clone (https://github.com/m4oughi/SurveyingLand.git)
    
 2. Open the project in Qt Creator or your preferred IDE.
 
