@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/src">
+        <file>Assets/antena.png</file>
+        <file>Assets/circle-minus.png</file>
+        <file>Assets/circle-pause.png</file>
+        <file>Assets/circle-record.png</file>
+        <file>Assets/North1.png</file>
+        <file>Assets/presentation-bar-chart.png</file>
+        <file>Assets/splashscreen.png</file>
+    </qresource>
+</RCC>

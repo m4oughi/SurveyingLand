@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Connection</class>
+ <widget class="QDialog" name="Connection">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>400</width>
+    <height>275</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string/>
+  </property>
+  <property name="modal">
+   <bool>true</bool>
+  </property>
+  <widget class="QComboBox" name="portNameComboBox">
+   <property name="geometry">
+    <rect>
+     <x>200</x>
+     <y>99</y>
+     <width>111</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">font: 10pt &quot;Calibri&quot;;</string>
+   </property>
+  </widget>
+  <widget class="QComboBox" name="BaudrateComboBox">
+   <property name="geometry">
+    <rect>
+     <x>200</x>
+     <y>149</y>
+     <width>111</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">font: 10pt &quot;Calibri&quot;;</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>90</x>
+     <y>100</y>
+     <width>101</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">font: 75 12pt &quot;Corbel&quot;;
+color: rgb(0, 0, 130);</string>
+   </property>
+   <property name="text">
+    <string>Port Name:</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_2">
+   <property name="geometry">
+    <rect>
+     <x>90</x>
+     <y>150</y>
+     <width>91</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">font: 75 12pt &quot;Corbel&quot;;
+color: rgb(0, 0, 130);</string>
+   </property>
+   <property name="text">
+    <string>Baudrate:</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="connectionBtn">
+   <property name="geometry">
+    <rect>
+     <x>120</x>
+     <y>200</y>
+     <width>161</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">color: rgb(245, 239, 231);
+font: 75 14pt &quot;Corbel&quot;;
+background-color: rgb(33, 32, 156);
+border-radius: 20px;</string>
+   </property>
+   <property name="text">
+    <string>Connect</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="setLatLongFPTextLabel_4">
+   <property name="geometry">
+    <rect>
+     <x>40</x>
+     <y>30</y>
+     <width>320</width>
+     <height>50</height>
+    </rect>
+   </property>
+   <property name="minimumSize">
+    <size>
+     <width>305</width>
+     <height>50</height>
+    </size>
+   </property>
+   <property name="maximumSize">
+    <size>
+     <width>16777215</width>
+     <height>50</height>
+    </size>
+   </property>
+   <property name="layoutDirection">
+    <enum>Qt::LeftToRight</enum>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">font: 75 14pt &quot;Corbel&quot;;
+background-color: rgb(24, 90, 219);
+color: rgb(245, 239, 231);
+border-radius: 20px;</string>
+   </property>
+   <property name="text">
+    <string>Connection Settings</string>
+   </property>
+   <property name="alignment">
+    <set>Qt::AlignCenter</set>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
