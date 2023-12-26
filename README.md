@@ -34,7 +34,7 @@ Contributions to the Land Surveyor project are welcome. If you have any suggesti
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). Please see the LICENSE file for more details.
 
 ## Contact
-For any questions or inquiries, please contact the project maintainer at mohammad.foroughi.1994@gmail.com.
+For any questions or inquiries, please contact the project maintainer at foroughi.mohammad.1994@gmail.com.
 
 ---
 
